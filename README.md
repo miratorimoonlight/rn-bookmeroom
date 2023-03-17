@@ -2,6 +2,9 @@
 
 I built this app to learn about styling, navigation, and how to use external libraries like Google Maps in React Native.
 
+https://user-images.githubusercontent.com/34526907/225813271-9b979a96-8177-4be2-8e8d-b0f239a13fa6.mp4
+
+
 # Set up project
 
 Run `yarn install`
